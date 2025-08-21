@@ -1,3 +1,4 @@
+alert('hello');
 import { LocationConflation } from '@rapideditor/location-conflation';
 import whichPolygon from 'which-polygon';
 import calcArea from '@mapbox/geojson-area';
